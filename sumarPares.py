@@ -10,4 +10,7 @@ print("***Los numeros pares del rango***")
 while i <= f:
     if i % 2 == 0:
         print(i)
+        suma = suma + i
     i+= 1
+
+    print("La suma de los numeros pares es: ", suma)
