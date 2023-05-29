@@ -20,3 +20,4 @@ while i <= num:
 
 print(f"La suma es:  {suma}")
       
+    
