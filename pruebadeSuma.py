@@ -12,9 +12,9 @@ while i <= n:
 sum = 0
 x = 0
 
-while x < len(list):
-    if list[x]:
-        sum+=list[x]
+while x < len(list):  
+
+    sum+=list[x]
     x+=1
 
 print("Los numeros son: ", sum)
